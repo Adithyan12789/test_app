@@ -5,7 +5,7 @@ import "./globals.css";
 export default function Index() {
   return (
     <SafeAreaView className="flex-1 items-center justify-center">
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text>Welcome to the app</Text>
     </SafeAreaView>
   );
 }
